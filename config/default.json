@@ -1,6 +1,6 @@
 {
-  "MongoURI": "Your mongo URI",
-  "jwtSecret": "secret",
-  "mkey": "Your razorpay key",
-  "msecret": "Your razorpay secret"
+  "MongoURI": "mongodb://localhost:27017/shopEase",
+  "jwtSecret": "ed5f2c40f56eb1ab3f1e3b07510e246fa2bb3dfbf680d892e76a5d2720af0076",
+  "mkey": "rzp_test_4IMx6PUVkECkMW",
+  "msecret": "zDJopUdtbwB5z7wgjFIJuDxY"
 }

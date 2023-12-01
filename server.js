@@ -17,7 +17,7 @@ app.use("/api/orders", require("./routes/orders"));
 app.use("/api/payment", require("./routes/payment"));
 
 //Port defined
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3030;
 
 app.listen(port, () => {
   console.log(`Server is up & running on ${port}`);
